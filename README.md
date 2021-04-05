@@ -1,22 +1,35 @@
-##NAMA      : RIZKI ILHAMI
-##KELAS     : TI.19.B.2
-##NIM       : 311910424
+## NAMA      : RIZKI ILHAMI
+## KELAS     : TI.19.B.2
+## NIM       : 311910424
 
 # Latihan
 
 1. membuat dokumen html
+
+
 ![NO1](https://user-images.githubusercontent.com/81584642/113582686-e184e600-9652-11eb-9df3-10164039b884.JPG)
 ![NO11](https://user-images.githubusercontent.com/81584642/113583077-5f48f180-9653-11eb-9d03-1fcd27358f73.JPG)
 ![NO111](https://user-images.githubusercontent.com/81584642/113583147-77b90c00-9653-11eb-8653-f6f89752b140.JPG)
 ![GNO1](https://user-images.githubusercontent.com/81584642/113583214-8f909000-9653-11eb-8a36-3976eee61626.JPG)
 
+
 2. mendeklarasi CSS internal
+
+
 ![no2](https://user-images.githubusercontent.com/81584642/113583406-ce264a80-9653-11eb-8fa6-a6e60e6f0bc8.JPG)
 
+
 3. menambahkan inline CSS
+
+
 ![no3](https://user-images.githubusercontent.com/81584642/113583553-f8780800-9653-11eb-944a-fe0717088956.JPG)
+
+
 4. membuat CSS Eksternal
+
+
 ![NOEMPAT](https://user-images.githubusercontent.com/81584642/113583654-1f363e80-9654-11eb-9e41-98bffb56cd24.JPG)
+
 
 # Pertanyaan dan tugas 
 
